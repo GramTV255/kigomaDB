@@ -1,6 +1,6 @@
 {
   "name": "kigomadb",
-  "version": "4.2.0",
+  "version": "5.0.0",
   "description": "KigomaDB Cloud Backend Server",
   "main": "server.js",
   "scripts": {
